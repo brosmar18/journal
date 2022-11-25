@@ -1,0 +1,21 @@
+body {
+    background-color: burlywood;
+}
+
+header {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+nav a {
+    display: block;
+    text-decoration: none;
+    text-align: center;
+
+}
+
+ul {
+    list-style: none;
+}
